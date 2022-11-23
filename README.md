@@ -2,7 +2,7 @@
 ## jarison102
 
 ### About me
-Soy un chico .....
+Soy programador hace 1 año soy un chico que le gusta aprender de manera solo aun que me gusta trabajar con artes personas para así mismo conocer mas sobre mi trabajo me gusta adentrarme en temas que me gusta y se un poco de hardware
 ### Skills
 
 ![HTML5](https://img.shields.io/badge/HTML-%23DE4B25.svg?style=flat&logo=html5&logoColor=white)
