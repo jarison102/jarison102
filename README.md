@@ -2,7 +2,7 @@
 ## jarison102
 
 ### About me
-En 2020 me incorpore a técnico que ofrecía el colegio como desarrollador de software como técnico de hay empezamos a crear un proyecto que duro 2 años en total que fueron de 10 hasta 11 de hay pues gane el técnico y me certifique como tal entonces en 2022 me llego un correo del Sena diciendo que se me gustaría participar en el tecnólogo y después homologar a una universidad yo con todo el gusto y todo el anhelo les dije que si además de esto a mi me gusta mucho la computación y pues me había planteado ser programador. Actualmente estoy haciendo un tecnólogo en el centro de formación del Sena pero mis objetivos son llegar mas lejos que esto quiero hacer una especialización en ingeniería de sistemas
+En 2020 me incorpore a técnico que ofrece el colegio como desarrollador de software como técnico de hay empezamos a crear un proyecto que duro 2 años en total que fueron de 10 hasta 11 de hay pues gane el técnico y me certifique como tal entonces en 2022 me llego un correo del Sena diciendo que se me gustaría participar en el tecnólogo y después homologar a una universidad yo con todo el gusto y todo el anhelo les dije que si además de esto a mi me gusta mucho la computación y pues me había planteado ser programador. Actualmente estoy haciendo un tecnólogo en el centro de formación del Sena pero mis objetivos son llegar mas lejos que esto quiero hacer una especialización en ingeniería de sistemas
 ### Skills
 
 ![HTML5](https://img.shields.io/badge/HTML-%23DE4B25.svg?style=flat&logo=html5&logoColor=white)
