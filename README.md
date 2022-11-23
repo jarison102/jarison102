@@ -2,8 +2,7 @@
 ## jarison102
 
 ### About me
-I am a person who is passionate about programming, I like to learn new technologies and be able to deepen my knowledge, I am also self-taught. Most of the technologies that I know, I have learned on my own and those that I have been taught, I have gone into great depth.
-
+En 2020 me incorpore a técnico que ofrecía el colegio como desarrollador de software como técnico de hay empezamos a crear un proyecto que duro 2 años en total que fueron de 10 hasta 11 de hay pues gane el técnico y me certifique como tal entonces en 2022 me llego un correo del Sena diciendo que se me gustaría participar en el tecnólogo y después homologar a una universidad yo con todo el gusto y todo el anhelo les dije que si además de esto a mi me gusta mucho la computación y pues me había planteado ser programador. Actualmente estoy haciendo un tecnólogo en el centro de formación del Sena pero mis objetivos son llegar mas lejos que esto quiero hacer una especialización en ingeniería de sistemas
 ### Skills
 
 ![HTML5](https://img.shields.io/badge/HTML-%23DE4B25.svg?style=flat&logo=html5&logoColor=white)
@@ -27,7 +26,6 @@ I am a person who is passionate about programming, I like to learn new technolog
 ![GitHub](https://img.shields.io/badge/-GitHub-%23000?logo=github&logoColor=white&style=flat)
 <!-- (https://img.shields.io/badge/-GitHub-%23000?logo=github&logoColor=white&style=flat-square)-->
 
-Although at the moment I know perhaps few technologies, every day I learn something new that helps me to continue to expand my knowledge.
 
 
 
