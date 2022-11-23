@@ -5,7 +5,6 @@
 Soy programador hace 1 año soy un chico que le gusta aprender de manera sola a un que me gusta trabajar con artes personas para así mismo conocer mas sobre mi trabajo me gusta adentrarme en temas que me gusta y se un poco de hardware
 ### Skills
 ![GitHub](https://img.shields.io/badge/-GitHub-%23000?logo=github&logoColor=white&style=flat)
-<!-- (https://img.shields.io/badge/-GitHub-%23000?logo=github&logoColor=white&style=flat-square)-->
 ![HTML5](https://img.shields.io/badge/HTML-%23DE4B25.svg?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS-%230174B8.svg?style=flat&logo=css3&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white)
