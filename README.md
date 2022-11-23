@@ -5,7 +5,8 @@
 Soy programador hace 1 año soy un chico que le gusta aprender de manera sola a un que me gusta trabajar con artes personas para así mismo conocer mas sobre mi trabajo me gusta adentrarme en temas que me gusta y se un poco de hardware
 
 
-👨‍💻 How to reach me: <a href="https://proyectoejs.herokuapp.com/" target="_blank">jarison102.000webhostapp.com</a>  
+👨‍💻 How to reach me: <a href="https://proyectoejs.herokuapp.com/" target="_blank">jarison102.000webhostapp.com</a> 
+
 ### Skills
 ![GitHub](https://img.shields.io/badge/-GitHub-%23000?logo=github&logoColor=white&style=flat)
 ![HTML5](https://img.shields.io/badge/HTML-%23DE4B25.svg?style=flat&logo=html5&logoColor=white)
