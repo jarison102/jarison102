@@ -23,7 +23,7 @@ Soy programador hace 1 año soy un chico que le gusta aprender de manera sola a 
 ### Statistics
 
 <div align="">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JhonCamargo07&layout=compact&theme=chartreuse-dark&hide_border=true&langs_count=10" width="" alt="Most used languages">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=jhoncamargo07&theme=chartreuse-dark&background=000000&hide_border=true" width="" alt="GitHub Stats">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jarison102&layout=compact&theme=chartreuse-dark&hide_border=true&langs_count=10" width="" alt="Most used languages">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=jarison102&theme=chartreuse-dark&background=000000&hide_border=true" width="" alt="GitHub Stats">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=jarison102&label=PROFILE+VIEWS)
