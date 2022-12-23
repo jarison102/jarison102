@@ -27,3 +27,6 @@ Soy programador hace 1 año soy un chico que le gusta aprender de manera solo ta
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=jarison102&theme=chartreuse-dark&background=000000&hide_border=true" width="" alt="GitHub Stats">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=jarison102&label=PROFILE+VIEWS)
+  <a href="https://github.com/jarison102
+"><img src="https://github-profile-trophy.vercel.app/?username=jarison102
+&theme=darkhub&row=1&column4&margin-w=05&margin-h=5" width="" alt="GitHub Statistics"></a><br>
