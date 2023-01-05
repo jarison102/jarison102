@@ -20,6 +20,8 @@ Soy programador hace 1 año soy un chico que le gusta aprender de manera solo ta
 ![MySQL](https://img.shields.io/badge/MySQL-006C91?style=flat&logo=mysql&logoColor=white)
 ![MongoDB](	https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
 ![python](https://img.shields.io/badge/Python-4DACA6?style=flat&logo=python&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-%23ea4f32?logo=git&logoColor=white&style=flat)
 
 ### Statistics
 
