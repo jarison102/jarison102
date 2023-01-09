@@ -2,7 +2,7 @@
 ## Jarison Stived Mican Cespedes
 
 ### About me
-Soy programador hace 1 año soy un chico que le gusta aprender de manera solo tambien que me gusta trabajar con artes personas para así mismo conocer mas sobre mi trabajo me gusta adentrarme en temas que me gusta y se un poco de hardware
+Desarrollador de software con experiencia en diseño, instalacion, pruebas y mantenimiento de sistemas de software. Dominio de varias plataformas, lenguajes y sistemas integrados. Experiencia en las herramientas y procedimientos de desarrollo Capaz de autogestionar un eficaz proyecto independientes. Buenas habilidades de colaboracion dentro de un equipo productivo
 
 
 👨‍💻 How to reach me: <a href="https://proyectoejs.herokuapp.com/" target="_blank">jarison102.000webhostapp.com</a> 
