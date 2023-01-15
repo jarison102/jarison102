@@ -23,7 +23,7 @@ Desarrollador de software con experiencia en diseño, instalacion, pruebas y man
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-%23ea4f32?logo=git&logoColor=white&style=flat)
 ![FIGMA](https://img.shields.io/badge/-FIGMA-%23ea4f32?logo=FIGMA&logoColor=white&style=flat)
-![MySQLQueryBrowser](https://img.shields.io/badge/-MySQLQueryBrowser-%2DD5E8?logo=MySQLQueryBrowser&logoColor=white&style=flat)
+![MySQLQueryBrowser](https://img.shields.io/badge/-MySQLQueryBrowser-%777BB4?logo=MySQLQueryBrowser&logoColor=white&style=flat)
 ![PuTTY](https://img.shields.io/badge/-PuTTY-%23000?logo=PuTTY&logoColor=white&style=flat)
 ![MySQLWorkbench](https://img.shields.io/badge/-MySQLWorkbench-%4A5AA1?logo=MySQLWorkbench&logoColor=white&style=flat)
 ![MobaXterm](https://img.shields.io/badge/-MobaXterm-%230174B8?logo=MobaXterm&logoColor=white&style=flat)
