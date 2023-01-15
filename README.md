@@ -22,6 +22,8 @@ Desarrollador de software con experiencia en diseño, instalacion, pruebas y man
 ![python](https://img.shields.io/badge/Python-4DACA6?style=flat&logo=python&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-%23ea4f32?logo=git&logoColor=white&style=flat)
+![FIGMA](https://img.shields.io/badge/-FIGMA-%23ea4f32?logo=FIGMA&logoColor=white&style=flat)
+![MYSQL](https://img.shields.io/badge/-MYSQL-%23ea4f32?logo=MYSQL&logoColor=white&style=flat)
 
 ### Statistics
 
