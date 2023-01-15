@@ -25,7 +25,7 @@ Desarrollador de software con experiencia en diseño, instalacion, pruebas y man
 ![FIGMA](https://img.shields.io/badge/-FIGMA-%23ea4f32?logo=FIGMA&logoColor=white&style=flat)
 ![MySQLQueryBrowser](https://img.shields.io/badge/-MySQLQueryBrowser-%23ea4f32?logo=MySQLQueryBrowser&logoColor=white&style=flat)
 ![PuTTY](https://img.shields.io/badge/-PuTTY-%23ea4f32?logo=PuTTY&logoColor=white&style=flat)
-
+![MySQL Workbench](https://img.shields.io/badge/-MySQL Workbench-%23ea4f32?logo=MySQL Workbench&logoColor=white&style=flat)
 
 ### Statistics
 
