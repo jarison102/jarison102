@@ -26,6 +26,7 @@ Desarrollador de software con experiencia en diseño, instalacion, pruebas y man
 ![MySQLQueryBrowser](https://img.shields.io/badge/-MySQLQueryBrowser-%23ea4f32?logo=MySQLQueryBrowser&logoColor=white&style=flat)
 ![PuTTY](https://img.shields.io/badge/-PuTTY-%23ea4f32?logo=PuTTY&logoColor=white&style=flat)
 ![MySQLWorkbench](https://img.shields.io/badge/-MySQLWorkbench-%23ea4f32?logo=MySQLWorkbench&logoColor=white&style=flat)
+![MobaXterm](https://img.shields.io/badge/-MobaXterm-%23ea4f32?logo=MobaXterm&logoColor=white&style=flat)
 
 ### Statistics
 
