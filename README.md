@@ -39,7 +39,8 @@ Desarrollador de software con experiencia en diseño, instalacion, pruebas y man
   
   
 [![Jarison Stived github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=jarison102&bg_color=000000&color=15F40A&line=15F40A&point=15F40A&area=true&hide_border=true)](https://github.com/jarison102/github-readme-activity-graph)
-
+  
+<detalles abiertos>
   <summary><h2>📘 Mis principales proyectos de código abierto</h2></summary>
 
    <a href="https://github.com/jarison102/Consumiendo-Api-de-RIKI-Y-MORTY">
@@ -87,6 +88,7 @@ Desarrollador de software con experiencia en diseño, instalacion, pruebas y man
   <a href="https://github.com/jarison102/calculadora-">
   <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=jarison102&repo=calculadora-&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="github.com/jarison102/calculadora-">
 </a>
+  </detalles>
   <summary><h2>📕 Principales proyectos en los que he contribuido</h2></summary>
   
   <a href="https://github.com/jarison102/Consumiendo-Api-de-RIKI-Y-MORTY">
