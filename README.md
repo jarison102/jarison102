@@ -40,7 +40,7 @@ Desarrollador de software con experiencia en diseño, instalacion, pruebas y man
 [![Jarison Stived github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=jarison102&bg_color=000000&color=15F40A&line=15F40A&point=15F40A&area=true&hide_border=true)](https://github.com/jarison102/github-readme-activity-graph)
 ![Profile Views](https://komarev.com/ghpvc/?username=jarison102&label=PROFILE+VIEWS)
 <details open> 
-  <summary><h2>📘 My Top Open Source Projects</h2></summary>
+  <summary><h2>📘 Mis principales proyectos de código abierto</h2></summary>
 
   <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
   <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
@@ -60,7 +60,7 @@ Desarrollador de software con experiencia en diseño, instalacion, pruebas y man
 </details>
 
 <details open> 
-  <summary><h2>📕 Top Projects I've Contributed To</h2></summary>
+  <summary><h2>📕 Principales proyectos en los que he contribuido</h2></summary>
 
   <!-- Small repo cards https://github.com/DenverCoder1/github-readme-stats (fork of anuraghazra/github-readme-stats) -->
   <p align="left">
