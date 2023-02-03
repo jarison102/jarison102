@@ -61,8 +61,12 @@ Desarrollador de software con experiencia en diseño, instalacion, pruebas y man
 </a>
   
   
-<a href="https://github.com/PTFLO-ENVIO-CORREO-HBILDES">
-  <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=PTFLO-ENVIO-CORREO-HBILDES&repo=PTFLO-ENVIO-CORREO-HBILDES&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="github.com/PTFLO-ENVIO-CORREO-HBILDES">
+<a href="https://github.com/PTFLO-ENVIO-CORREO-HBILDES
+">
+  <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=PTFLO-ENVIO-CORREO-HBILDES
+&repo=PTFLO-ENVIO-CORREO-HBILDES
+&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="github.com/PTFLO-ENVIO-CORREO-HBILDES
+">
 </a>
   
   
