@@ -41,7 +41,7 @@ Desarrollador de software con experiencia en diseño, instalacion, pruebas y man
     </tr>
   </table>
 
-  <a href="https://github.com/jarison102/PTFLO-ENVIO-CORREO-HBILDES"><img alt="Mas sobre Mi Portafolio" title="Sponsorship Tiers" src="https://custom-icon-badges.demolab.com/badge/-More%20About%20My%20Sponsorship%20Tiers-1F222E?style=for-the-badge&logoColor=white&logo=link-external"/></a>
+  <a href="https://github.com/jarison102/PTFLO-ENVIO-CORREO-HBILDES"><img alt="Mas sobre Mi Portafolio" title="Sponsorship Tiers" src="https://custom-icon-badges.demolab.com/badge/-Mas%20Sobre%20Mi%20Portafolio%20-1F222E?style=for-the-badge&logoColor=white&logo=link-external"/></a>
 </details>
 
 <details open> 
@@ -128,7 +128,7 @@ Desarrollador de software con experiencia en diseño, instalacion, pruebas y man
   </p>
 
   <p align="left">
-    <a href="https://github.com/jarison102?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Todos%20Mis%20%20Mis%20Repositorios-1F222E?style=for-the-badge&logoColor=white&logo=fork"/></a>
+    <a href="https://github.com/jarison102?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Todos%20Mis%20%20%20Repositorios-1F222E?style=for-the-badge&logoColor=white&logo=fork"/></a>
   </p>
 </details>
 
