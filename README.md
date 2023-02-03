@@ -37,6 +37,8 @@ Desarrollador de software con experiencia en diseño, instalacion, pruebas y man
 <a href="https://github.com/jarison102"><img src="https://github-readme-stats.vercel.app/api?username=jarison102&show_icons=true&theme=chartreuse-dark&hide_border=true" width="" alt="GitHub Stats"></a><br>
   
 <a href="https://github.com/jarison102"><img src="https://github-profile-trophy.vercel.app/?username=jarison102&theme=darkhub&row=1&column4&margin-w=05&margin-h=5" width="" alt="GitHub Statistics"></a><br>
+  
+ [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ashutosh00710&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ![Profile Views](https://komarev.com/ghpvc/?username=jarison102&label=PROFILE+VIEWS)
- [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ashutosh00710&custom_title=This%20is%20a%20title&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
   
