@@ -41,9 +41,10 @@ Desarrollador de software con experiencia en diseño, instalacion, pruebas y man
 [![Jarison Stived github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=jarison102&bg_color=000000&color=15F40A&line=15F40A&point=15F40A&area=true&hide_border=true)](https://github.com/jarison102/github-readme-activity-graph)
 ![Profile Views](https://komarev.com/ghpvc/?username=jarison102&label=PROFILE+VIEWS)
   
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+  <a href="https://github.com/jarison102/github-readme-stats">
+  <img width="278" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jarison102&repo=github-readme-stats" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+<a href="https://github.com/jarison102/convoychat">
+  <img align="center" width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=jarison102&repo=convoychat" />
 </a>
+  
