@@ -40,28 +40,3 @@ Desarrollador de software con experiencia en diseño, instalacion, pruebas y man
   
 [![Jarison Stived github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=jarison102&bg_color=000000&color=15F40A&line=15F40A&point=15F40A&area=true&hide_border=true)](https://github.com/jarison102/github-readme-activity-graph)
 ![Profile Views](https://komarev.com/ghpvc/?username=jarison102&label=PROFILE+VIEWS)
-
-  
-  
-  
-  
-  
-  <detalles abiertos>
-  <summary><h2>📘 Mis principales proyectos de código abierto</h2></summary>
-
-  <!-- Tarjetas de información de repositorio - https://github.com/anuraghazra/github-readme-stats -->
-  <!-- Pequeñas tarjetas de repositorio (bifurcación) - https://github.com/DenverCoder1/github-readme-stats -->
-  <p align="izquierda">
-    <a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/ api/pin/?username=DenverCoder1&repo=github-readme-streak-stats&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
-    <a href="https://github.com/DenverCoder1/readme-typing-svg"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/ pin/?username=DenverCoder1&repo=readme-typing-svg&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="readme-typing-svg"></a>
-    <a href="https://github.com/DenverCoder1/insignias-de-icono-personalizadas"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/ pin?username=DenverCoder1&repo=icono personalizado-insignias&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="icono-personalizado-insignias"></a>
-    <a href="https://github.com/DenverCoder1/unicode-formatter"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/ ?username=DenverCoder1&repo=formateador Unicode&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="formateador Unicode"></a>
-    <a href="https://github.com/DenverCoder1/unedit-for-reddit"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/ pin/?username=DenverCoder1&repo=unedit-for-reddit&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="unedit-for-reddit"></a>
-    <a href="https://github.com/DenverCoder1/github-readme-youtube-cards"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/ api/pin/?username=DenverCoder1&repo=github-readme-youtube-cards&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-youtube-cards"></a>
-    <a href="https://github.com/DenverCoder1/latex-gboard-dictionary"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/ pin/?username=DenverCoder1&repo=latex-gboard-dictionary&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="latex-gboard-dictionary"></a>
-    <a href="https://github.com/DenverCoder1/colección-de-fondos-de-pantalla-minimalistas"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/ pin/?username=DenverCoder1&repo=fondos-de-pantalla-minimalistas&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="colección-de-fondos-de-pantalla-minimalistas"></a>
-    <a href="https://github.com/DenverCoder1/table2ascii"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username =DenverCoder1&repo=table2ascii&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="table2ascii"></a>
-  </p>
-
-  <a href="https://github.com/DenverCoder1?tab=repositories&sort=stargazers"><img alt="Todos los repositorios" title="Todos los repositorios" src="https://custom-icon-badges.demolab .com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
-</detalles>
