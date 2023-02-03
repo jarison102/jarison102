@@ -40,6 +40,3 @@ Desarrollador de software con experiencia en diseño, instalacion, pruebas y man
   
 [![Jarison Stived github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=jarison102&bg_color=000000&color=15F40A&line=15F40A&point=15F40A&area=true&hide_border=true)](https://github.com/jarison102/github-readme-activity-graph)
 ![Profile Views](https://komarev.com/ghpvc/?username=jarison102&label=PROFILE+VIEWS)
-  
-<a href="https://github.com/pallets/flask><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username =paletas&repo=frasco&tema=reaccionar&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="frasco"></a>
-
