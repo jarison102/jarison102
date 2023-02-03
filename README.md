@@ -38,7 +38,7 @@ Desarrollador de software con experiencia en diseño, instalacion, pruebas y man
   
 <a href="https://github.com/jarison102"><img src="https://github-profile-trophy.vercel.app/?username=jarison102&theme=darkhub&row=1&column4&margin-w=05&margin-h=5" width="" alt="GitHub Statistics"></a><br>
   
-[![Jarison Stived github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=jarison102&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/jarison102/github-readme-activity-graph)
+[![Jarison Stived github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=jarison102&bg_color=000000&color=fffff0&line=fffff0&point=fffff0&area=true&hide_border=true)](https://github.com/jarison102/github-readme-activity-graph)
 ![Profile Views](https://komarev.com/ghpvc/?username=jarison102&label=PROFILE+VIEWS)
 
   
