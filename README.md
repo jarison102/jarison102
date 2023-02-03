@@ -44,8 +44,9 @@ Desarrollador de software con experiencia en diseño, instalacion, pruebas y man
 
 
   <p align="left">
-    <a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DenverCoder1&repo=github-readme-streak-stats&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
-   
+    <a href="https://github.com/jarison102/Pagina-mee-con-html-y-css-puro"><img width="278" src="https://github.com/jarison102/Pagina-mee-con-html-ycss-puro.vercel.app/api/pin/?username=jarison102&repo=Pagina-mee-con-html-y-css-puro&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" 
+ alt="Pagina-mee-con-html-y-css-puro"></a>
+
 
   <a href="https://github.com/jarison102?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
 </details>
@@ -53,4 +54,4 @@ Desarrollador de software con experiencia en diseño, instalacion, pruebas y man
 <details open> 
   <summary><h2>📕 Principales proyectos en los que he contribuido</h2></summary>
   
- <a href="https://github.com/jarison102/Consumiendo-Api-de-RIKI-Y-MORTY"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DenverCoder1&repo=table2ascii&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="Api-de-RIKI-Y-MORTY"></a>
+ <a href="https://github.com/jarison102/Consumiendo-Api-de-RIKI-Y-MORTY"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DenverCoder1&repo=table2ascii&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="github-readme-streak-stats"></a>
