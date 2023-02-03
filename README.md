@@ -206,14 +206,22 @@ Desarrollador de software con experiencia en diseño, instalacion, pruebas y man
   <summary><h2>📊Estadísticas y actividad de Github</h2></summary>
 
   <h3>🔥 Estadísticas de racha</h3>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=jarison102&theme=chartreuse-dark&background=000000&hide_border=true" width="" alt="GitHub Stats">
+<p>
+    <a href="https://github.com/jarison102/github-readme-streak-stats">
+      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Jariwson Stived streak" src="https://streak-stats.demolab.com/?user=jarison102&theme=monokai-metallian&hide_border=true"/>
+    </a>
   <a href="https://github.com/jarison102"><img src="https://github-profile-trophy.vercel.app/?username=jarison102&theme=darkhub&row=1&column4&margin-w=05&margin-h=5" width="" alt="GitHub Statistics"></a><br>
+
   <h3>💻 GitHub Profile Stats</h3>
-<a href="https://github.com/jarison102"><img src="https://github-readme-stats.vercel.app/api?username=jarison102&show_icons=true&theme=chartreuse-dark&hide_border=true" width="" alt="GitHub Stats"></a><br> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jarison102&layout=compact&theme=chartreuse-dark&hide_border=true&langs_count=10" width="" alt="Most used languages">
- 
-Nota: Los idiomas principales son solo una métrica de los idiomas en los que se compone mi código público y no reflejan la experiencia o el nivel de habilidad.
+
+
+  <a href="https://github.com/jarison102/github-readme-stats"><img alt="Jarison Stived Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=jarison102&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
   
- [![Jarison Stived github activity graph](https://github-readme-activity-graph.cyclic.app/graph?
+  
+  <a href="https://github.com/jarison102/github-readme-stats"><img alt="jarison102 Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=jarison102&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
+  <br/>
+  
+Nota: Los idiomas principales son solo una métrica de los idiomas en los que se compone mi código público y no reflejan la experiencia o el nivel de habilidad.
   
 <a href="https://github.com/jarison102/github-readme-activity-graph"><img alt="jarison102 Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=jarison102&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
   
