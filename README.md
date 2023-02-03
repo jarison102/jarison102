@@ -14,8 +14,7 @@ Desarrollador de software con experiencia en diseño, instalacion, pruebas y man
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/jarison102?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
   <a href="https://github.com/jarison102?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/jarison102?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-  <a href="https://github.com/jarison102/Simple-View-Counter">
-    <img alt="views" title="GitHub profile views" src="https://freshidea.com/jonah/app/DenverCoder1-profile-views"/></a>
+
 </p>
 
 <details open> 
@@ -208,3 +207,6 @@ Desarrollador de software con experiencia en diseño, instalacion, pruebas y man
 Nota: Los idiomas principales son solo una métrica de los idiomas en los que se compone mi código público y no reflejan la experiencia o el nivel de habilidad.
   
  [![Jarison Stived github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=jarison102&bg_color=000000&color=15F40A&line=15F40A&point=15F40A&area=true&hide_border=true)](https://github.com/jarison102/github-readme-activity-graph)
+  
+  
+![Profile Views](https://komarev.com/ghpvc/?username=jarison102&label=PROFILE+VIEWS)
