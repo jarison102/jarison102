@@ -19,7 +19,7 @@ Desarrollador de software con experiencia en diseño, instalacion, pruebas y man
 </p>
 
 <details open> 
-  <summary><h2>🌠 Top Sponsors</h2></summary>
+  <summary><h2>📑 Portafolio</h2></summary>
 
   <table>
     <tr>
