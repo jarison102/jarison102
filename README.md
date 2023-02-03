@@ -213,7 +213,7 @@ Desarrollador de software con experiencia en diseño, instalacion, pruebas y man
  
 Nota: Los idiomas principales son solo una métrica de los idiomas en los que se compone mi código público y no reflejan la experiencia o el nivel de habilidad.
   
- [![Jarison Stived github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=jarison102&bg_color=000000&color=15F40A&line=15F40A&point=15F40A&area=true&hide_border=true)](https://github.com/jarison102/github-readme-activity-graph)
+ [![Jarison Stived github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=jarison102&bg_color=1F222E&color=F8D866&line=FFFFFF&point=15F40A&area=true&hide_border=true)](https://github.com/jarison102/github-readme-activity-graph)
   
 </details>
 
