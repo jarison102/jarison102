@@ -39,4 +39,4 @@ Desarrollador de software con experiencia en diseño, instalacion, pruebas y man
 <a href="https://github.com/jarison102"><img src="https://github-profile-trophy.vercel.app/?username=jarison102&theme=darkhub&row=1&column4&margin-w=05&margin-h=5" width="" alt="GitHub Statistics"></a><br>
 ![Profile Views](https://komarev.com/ghpvc/?username=jarison102&label=PROFILE+VIEWS)
 
-[0.022222222222222223] pronto naciente
+
