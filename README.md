@@ -39,7 +39,7 @@ Desarrollador de software con experiencia en diseño, instalacion, pruebas y man
 <a href="https://github.com/jarison102"><img src="https://github-profile-trophy.vercel.app/?username=jarison102&theme=darkhub&row=1&column4&margin-w=05&margin-h=5" width="" alt="GitHub Statistics"></a><br>
 ![Profile Views](https://komarev.com/ghpvc/?username=jarison102&label=PROFILE+VIEWS)
 
-<a href="https://github.com/jarison102"><img alt="Gráfico de actividad de DenverCoder1" src="https://github-readme-activity-graph.ciclico. app/graph/?username=DenverCoder1&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Gráfico de actividad de DenverCoder1" src="https://github-readme-activity-graph.ciclico. app/graph/?username=DenverCoder1&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
        
   
