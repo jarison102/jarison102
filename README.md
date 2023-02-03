@@ -47,7 +47,7 @@ Desarrollador de software con experiencia en diseño, instalacion, pruebas y man
 <p align="centro">
        
   <a href="https://twitter.com/MicanStiven"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/OXZM1L6.png" /></a>
-  <a href="https://www.instagram.com/stived_u/"><img width="32px" alt="Instagram" title="Instagram" src="https://i.imgur.com/OXZM1L6.png]https://i.pinimg.com/originals/4d/25/c5/4d25c55d4dba4db66d12c193343440d4.png" /></a>
+  <a href="https://www.instagram.com/stived_u/"><img width="32px" alt="Instagram" title="Instagram"src="https://i.pinimg.com/originals/4d/25/c5/4d25c55d4dba4db66d12c193343440d4.png" /></a>
        
   
        
