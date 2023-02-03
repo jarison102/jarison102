@@ -1,6 +1,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&width=435&lines=Jarison+Stived+Mican+Cespedes)](https://git.io/typing-svg)
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Bienvenidos!+a+mi+Perfil+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&width=435&lines=Bienvenidos!!)](https://git.io/typing-svg)
 ### About me
 Desarrollador de software con experiencia en diseño, instalacion, pruebas y mantenimiento de sistemas de software. Dominio de varias plataformas, lenguajes y sistemas integrados. Experiencia en las herramientas y procedimientos de desarrollo Capaz de autogestionar un eficaz proyecto independientes. Buenas habilidades de colaboracion dentro de un equipo productivo
 
