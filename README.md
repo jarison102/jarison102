@@ -39,13 +39,7 @@ Desarrollador de software con experiencia en diseño, instalacion, pruebas y man
 <a href="https://github.com/jarison102"><img src="https://github-profile-trophy.vercel.app/?username=jarison102&theme=darkhub&row=1&column4&margin-w=05&margin-h=5" width="" alt="GitHub Statistics"></a><br>
 ![Profile Views](https://komarev.com/ghpvc/?username=jarison102&label=PROFILE+VIEWS)
 
-
-<summary><h2>📘 Mis principales proyectos de código abierto</h2></summary>
-
-  <p align="centro">
-  <a href="https://www.youtube.com/c/DevProTips?sub_confirmation=1">
-    <img alt="subscriptores de youtube" title="Suscríbete a mi canal de YouTube" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCipSxT7a3rn81vGLw9lqRkg?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor =blanco&estilo=para-la-insignia&etiquetaColor=CE4630"/></a>
-
+<a href="https://github.com/jarison102"><img alt="Gráfico de actividad de DenverCoder1" src="https://github-readme-activity-graph.ciclico. app/graph/?username=DenverCoder1&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
        
   
