@@ -85,6 +85,13 @@ Desarrollador de software con experiencia en diseño, instalacion, pruebas y man
   <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=jarison102&repo=Historias_Locas&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="github.com/jarison102/Historias_Locas">
 </a>
   
+  <a href="https://github.com/jarison102/moneda">
+  <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=jarison102&repo=moneda&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="github.com/jarison102/moneda">
+</a>
+  
+  <a href="https://github.com/jarison102/calculadora-">
+  <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=jarison102&repo=calculadora-&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="github.com/jarison102/calculadora-">
+</a>
   <summary><h2>📕 Principales proyectos en los que he contribuido</h2></summary>
   
   <a href="https://github.com/jarison102/Consumiendo-Api-de-RIKI-Y-MORTY">
