@@ -62,5 +62,4 @@ Desarrollador de software con experiencia en diseño, instalacion, pruebas y man
 <details open> 
   <summary><h2>📕 Principales proyectos en los que he contribuido</h2></summary>
 
-  
- <a href="https://github.com/jarison102/Consumiendo-Api-de-RIKI-Y-MORTY"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DenverCoder1&repo=Api-de-RIKI-MORTY&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="Api-de-RIKI-MORTY"></a>
+   <a href="https://github.com/jarison102/Consumiendo-Api-de-RIKI-Y-MORTY"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DenverCoder1&repo=table2ascii&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="Api-de-RIKI-Y-MORTY"></a>
