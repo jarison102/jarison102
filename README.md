@@ -60,6 +60,7 @@ Desarrollador de software con experiencia en diseño, instalacion, pruebas y man
    
    
     
+ <a href="https://github.com/jarison102/Pagina-mee-con-html-y-css-puro">
   <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=jarison102&repo=Pagina-mee-con-html-y-css-puro&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="pagina css html puro">
 </a>
 
@@ -83,6 +84,7 @@ Desarrollador de software con experiencia en diseño, instalacion, pruebas y man
 </a>
    
      
+<a href="https://github.com/jarison102/Historias_Locas">
   <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=jarison102&repo=Historias_Locas&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="github.com/jarison102/Historias_Locas">
 </a>
    
@@ -106,13 +108,16 @@ Desarrollador de software con experiencia en diseño, instalacion, pruebas y man
     
     
 
+ <a href="https://github.com/jarison102/autoparts">
   <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=jarison102&repo=autoparts&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="github.com/jarison102/autoparts">
 </a>
     
     
     
+<a href="https://github.com/jarison102/Sistema-de-Sorteo-javascript">
   <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=jarison102&repo=Sistema-de-Sorteo-javascript&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="github.com/jarison102/Sistema-de-Sorteo-javascript">
 </a>
+
     
     
    <a href="https://github.com/jarison102/React-Ficheros">
@@ -121,8 +126,10 @@ Desarrollador de software con experiencia en diseño, instalacion, pruebas y man
     
     
    
+<a href="https://github.com/jarison102/PTFLO-ENVIO-CORREO-HBILDES">
   <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=jarison102&repo=PTFLO-ENVIO-CORREO-HBILDES&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="github.com/jarison102/PTFLO-ENVIO-CORREO-HBILDES">
 </a>
+
     
     
   </p>
