@@ -58,9 +58,7 @@ Desarrollador de software con experiencia en diseño, instalacion, pruebas y man
   
   
   
-  <a href="https://github.com/jarison102/Consumiendo-Api-de-RIKI-Y-MORTY">
-  <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+  [<a href="https://github.com/jarison102/Consumiendo-Api-de-RIKI-Y-MORTY">
+  <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />](https://github-readme-stats.vercel.app/api/pin/?username=jarison102&repo=Consumiendo-Api-de-RIKI-Y-MORTY)
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
-</a>
+
