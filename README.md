@@ -208,5 +208,9 @@ Nota: Los idiomas principales son solo una métrica de los idiomas en los que se
   
  [![Jarison Stived github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=jarison102&bg_color=000000&color=15F40A&line=15F40A&point=15F40A&area=true&hide_border=true)](https://github.com/jarison102/github-readme-activity-graph)
   
-  
+</details>
+
+
+
 ![Profile Views](https://komarev.com/ghpvc/?username=jarison102&label=PROFILE+VIEWS)
+
