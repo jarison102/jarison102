@@ -42,14 +42,14 @@ Desarrollador de software con experiencia en diseño, instalacion, pruebas y man
 
 <summary><h2>📘 Mis principales proyectos de código abierto</h2></summary>
 
-  
+  <p align="centro">
+  <a href="https://www.youtube.com/c/DevProTips?sub_confirmation=1">
+    <img alt="subscriptores de youtube" title="Suscríbete a mi canal de YouTube" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCipSxT7a3rn81vGLw9lqRkg?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor =blanco&estilo=para-la-insignia&etiquetaColor=CE4630"/></a>
 
-<p align="centro">
-       
-  <a href="https://twitter.com/MicanStiven"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/OXZM1L6.png" /></a>
-  <a href="https://www.instagram.com/stived_u/"><img width="32px" alt="Instagram" title="Instagram"src="https://i.pinimg.com/originals/4d/25/c5/4d25c55d4dba4db66d12c193343440d4.png" /></a>
+
        
   
        
   
-</p>
+       
+
