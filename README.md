@@ -44,3 +44,5 @@ Desarrollador de software con experiencia en diseño, instalacion, pruebas y man
   <p align="izquierda">
     <a href="https://github.com/jarison102/github-readme-streak-stats"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/ api/pin/?username=jarison102&repo=github-readme-streak-stats&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
   </p>
+    <a href="https://github.com/DenverCoder1?tab=repositories&sort=stargazers"><img alt="Todos los repositorios" title="Todos los repositorios" src="https://custom-icon-badges.demolab .com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
+</detalles>
