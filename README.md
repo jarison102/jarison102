@@ -59,16 +59,7 @@ Desarrollador de software con experiencia en diseño, instalacion, pruebas y man
   <a href="https://github.com/jarison102/Convertir-im-genes-a-PDF-Python">
   <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=jarison102&repo=Convertir-im-genes-a-PDF-Python&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="github.com/jarison102/script">
 </a>
-  
-  
-<a href="https://github.com/PTFLO-ENVIO-CORREO-HBILDES
-">
-  <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=PTFLO-ENVIO-CORREO-HBILDES
-&repo=PTFLO-ENVIO-CORREO-HBILDES
-&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="github.com/PTFLO-ENVIO-CORREO-HBILDES
-">
-</a>
-  
+ 
   
   <a href="https://github.com/jarison102/Peliculas-React-Pagina-Web">
   <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=jarison102&repo=Peliculas-React-Pagina-Web&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="github.com/jarison102/Peliculas-React-Pagina-Web">
@@ -114,3 +105,9 @@ Desarrollador de software con experiencia en diseño, instalacion, pruebas y man
 <a href="https://github.com/jarison102/React-Ficheros">
   <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=jarison102&repo=React-Ficheros&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="github.com/jarison102/React-Ficheros">
 </a>
+  
+  
+  <a href="https://github.com/jarison102/PTFLO-ENVIO-CORREO-HBILDES">
+  <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=jarison102&repo=PTFLO-ENVIO-CORREO-HBILDES&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="github.com/jarison102/PTFLO-ENVIO-CORREO-HBILDES">
+</a>
+
