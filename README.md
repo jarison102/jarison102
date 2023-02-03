@@ -61,8 +61,28 @@ Desarrollador de software con experiencia en diseño, instalacion, pruebas y man
 </a>
   
   
-  <a href="https://github.com/PTFLO-ENVIO-CORREO-HBILDES">
+<a href="https://github.com/PTFLO-ENVIO-CORREO-HBILDES">
   <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=PTFLO-ENVIO-CORREO-HBILDES&repo=PTFLO-ENVIO-CORREO-HBILDES&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="github.com/PTFLO-ENVIO-CORREO-HBILDES">
+</a>
+  
+  
+  <a href="https://github.com/jarison102/Peliculas-React-Pagina-Web">
+  <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=jarison102&repo=Peliculas-React-Pagina-Web&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="github.com/jarison102/Peliculas-React-Pagina-Web">
+</a>
+  
+  
+  
+  <a href="https://github.com/jarison102/Piedra-Papel-Tijera.PY">
+  <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=jarison102&repo=Piedra-Papel-Tijera.PY&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="github.com/jarison102/Piedra-Papel-Tijera.PY">
+</a>
+  
+  <a href="https://github.com/jarison102/adivina-el-numero">
+  <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=jarison102&repo=adivina-el-numero&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="github.com/jarison102/Adivina el número en Python">
+</a>
+  
+  
+  <a href="https://github.com/jarison102/Historias_Locas">
+  <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=jarison102&repo=Historias_Locas&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="github.com/jarison102/Historias_Locas">
 </a>
   
   <summary><h2>📕 Principales proyectos en los que he contribuido</h2></summary>
@@ -71,3 +91,15 @@ Desarrollador de software con experiencia en diseño, instalacion, pruebas y man
   <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=jarison102&repo=Consumiendo-Api-de-RIKI-Y-MORTY&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="github.com/jarison102/Consumiendo-Api-de-RIKI-Y-MORTY">
 </a>
 
+  <a href="https://github.com/jarison102/autoparts">
+  <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=jarison102&repo=autoparts&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="github.com/jarison102/autoparts">
+</a>
+
+  <a href="https://github.com/jarison102/Sistema-de-Sorteo-javascript">
+  <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=jarison102&repo=Sistema-de-Sorteo-javascript&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="github.com/jarison102/Sistema-de-Sorteo-javascript">
+</a>
+  
+  
+<a href="https://github.com/jarison102/React-Ficheros">
+  <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=jarison102&repo=React-Ficheros&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="github.com/jarison102/React-Ficheros">
+</a>
