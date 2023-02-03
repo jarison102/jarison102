@@ -6,13 +6,11 @@ Desarrollador de software con experiencia en diseño, instalacion, pruebas y man
 
 👨‍💻 How to reach me:https://portafoliio.000webhostapp.com/Portafolio%20V1/Index.html
 
-<detalles>
-  <summary><h2>🛠️ Mis herramientas favoritas</h2></summary>
-  <!-- Algunas insignias son de https://github.com/Ileriayo/markdown-badges -->
+
 
   <detalles>
   <summary><h2>🛠️ Mis herramientas favoritas</h2></summary>
-  <!-- Algunas insignias son de https://github.com/Ileriayo/markdown-badges -->
+
 
   <h3>👨‍💻 Lenguajes de programación y marcado</h3>
 
