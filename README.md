@@ -65,6 +65,7 @@ Desarrollador de software con experiencia en diseño, instalacion, pruebas y man
   
   <p align="left">
     <a href="https://github.com/jarison102/Consumiendo-Api-de-RIKI-Y-MORTY"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=pallets&repo=API-RIKI-Y-MORTY&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="API-RIKI-Y-MORTY"></a>
+    <a href="https://github.com/PyCQA/autoflake"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username= PyCQA&repo=autoflake&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="autoflake"></a>
     
 
 
