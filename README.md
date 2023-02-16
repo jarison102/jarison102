@@ -103,6 +103,11 @@ Desarrollador de software con experiencia en diseño, instalacion, pruebas y man
   <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=jarison102&repo=Pagina-Web-Flask-Python&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="github.com/jarison102/Pagina-Web-Flask-Python">
 </a>
 
+<p align="izquierda">
+  <a href="https://github.com/jarison102/Web-BaseD-Login-Sesiones-Agregar-">
+    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=jarison102&repo=Web-BaseD-Login-Sesiones-Agregar-&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="github.com/jarison102/Web-BaseD-Login-Sesiones-Agregar-">
+  </a>
+</p>
 
 <details open> 
   <summary><h2>📕 Principales proyectos en los que he contribuido</h2></summary>
