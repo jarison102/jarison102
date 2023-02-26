@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=Sobre+mi)](https://git.io/typing-svg)
 
 
-Desarrollador de software con experiencia en front end y back end tambien instalacion, pruebas y mantenimiento de sistemas de software. Dominio de varias plataformas, lenguajes y sistemas integrados. Experiencia en las herramientas y procedimientos de desarrollo Capaz de autogestionar un eficaz proyecto independientes. Buenas habilidades de colaboracion dentro de un equipo productivo
+Desarrollador de software con experiencia en front end y back end tambien instalacion, pruebas y mantenimiento de sistemas de software. Dominio de varias plataformas, lenguajes y sistemas integrados. Experiencia en las herramientas y procedimientos de desarrollo Capaz de autogestionar un eficaz proyecto independientes Buenas habilidades de colaboracion dentro de un equipo productivo
 <p align="center">
   <a href="https://www.youtube.com/c/DevProTips?sub_confirmation=1">
     <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&width=435&lines=Jarison+Stived+Mican+Cespedes"/></a>
