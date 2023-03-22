@@ -108,9 +108,10 @@ Desarrollador de software con experiencia en front end y back end tambien instal
   </a>
   
   
-  <a href="https://github.com/jarison102/pagina-js-motosR">
-    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=jarison102&repo=Web-pagina-js-motosR-&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="github.com/jarison102/pagina-js-motosR">
-  </a>
+<a href="https://github.com/jarison102/pagina-js-motosR">
+  <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=jarison102&repo=pagina-js-motosR&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="github.com/jarison102/pagina-js-motosR">
+</a>
+
   
   
   
