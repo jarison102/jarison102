@@ -43,6 +43,31 @@ Desarrollador de software con experiencia en front end y back end tambien instal
     </tr>
   </table>
 
+  
+  <table>
+    <tr>
+      <!-- <th>$10+/month</th> -->
+      <th>Espero Les Guste</th>
+    </tr>
+    <tr>
+      <!-- $10+/month -->
+      <!-- <td>
+        <div align="center">
+          <a href="https://github.com/jesterb0206"><img src="https://github.com/jesterb0206.png" alt="@jesterb0206" width="52" /></a>
+          <br />
+          <a align="center" href="https://github.com/jesterb0206"><b>Bradley Jester</b></a>
+        </b>
+      </td> -->
+      <!-- $5+/month -->
+      <td>
+        <a href="https://portafoliio.000webhostapp.com/Portafolio%20V1/Index.html"><img src="https://custom-icon-badges.demolab.com/badge/-Portafolio-D90368?style=for-the-badge&logo=mention" alt="Portafolio" /></a>
+      </td>
+    </tr>
+  </table>
+  
+  
+  
+
   <a href="https://github.com/jarison102/PTFLO-ENVIO-CORREO-HBILDES"><img alt="Mas sobre Mi Portafolio" title="Sponsorship Tiers" src="https://custom-icon-badges.demolab.com/badge/-Mas%20Sobre%20Mi%20Portafolio%20-1F222E?style=for-the-badge&logoColor=white&logo=link-external"/></a>
 </details>
 
