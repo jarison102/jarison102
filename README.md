@@ -271,24 +271,21 @@ Desarrollador de software con experiencia en front end y back end tambien instal
   
 Nota: Los idiomas principales son solo una métrica de los idiomas en los que se compone mi código público y no reflejan la experiencia o el nivel de habilidad.
 
-<div style="display: flex; ">
-  <div>
-    <a href="https://github.com/JSebastianDP/github-readme-stats" style="float: left; width: 45%; height: 45%;">
-      <img style="width: 45%; height: 45%%;" src="https://github-readme-stats.vercel.app/api?username=JSebastianDP&show_icons=true&theme=react" />
-    </a>
-    <a href="https://github.com/JSebastianDP/convoychat" style="float: right; width: 45%; height: 45%;">
-      <img style="width: 45%; height: 45%;" src="https://github-readme-stats.vercel.app/api/top-langs?username=JSebastianDP&layout=compact&langs_count=8&card_width=320&show_icons=true&theme=react" />
-    </a>
-    <div style="clear: both;"></div>
-    <a href="https://git.io/streak-stats" style="float: left; width: 45%; height: 45%;">
-      <img style="width: 45%; height: 45%;" src="http://github-readme-streak-stats.herokuapp.com?user=JSebastianDP&layout=compact&langs_count=8&card_width=467&show_icons=true&theme=react" />
-    </a>
-    <a href="https://github.com/JSebastianDP/github-readme-activity-graph" style="float: right; width: 45%; height: 70%;">
-      <img style="width: 45%; height: 70%;" src="https://github-readme-activity-graph.vercel.app/graph?username=JSebastianDP&layout=compact&langs_count=8&card_width=100&show_icons=true&theme=react" />
-    </a>
-    <div style="clear: both;"></div>
-  </div>
+<div style="display: flex; justify-content: center;">
+  <a href="https://github.com/JSebastianDP/github-readme-stats" style="flex: 0 0 300px; height: 200px;">
+    <img style="width: 100%; height: 100%;" src="https://github-readme-stats.vercel.app/api?username=JSebastianDP&show_icons=true&theme=react" />
+  </a>
+  <a href="https://github.com/JSebastianDP/convoychat" style="flex: 0 0 300px; height: 200px;">
+    <img style="width: 100%; height: 100%;" src="https://github-readme-stats.vercel.app/api/top-langs?username=JSebastianDP&layout=compact&langs_count=8&card_width=320&show_icons=true&theme=react" />
+  </a>
+  <a href="https://git.io/streak-stats" style="flex: 0 0 300px; height: 200px;">
+    <img style="width: 100%; height: 100%;" src="http://github-readme-streak-stats.herokuapp.com?user=JSebastianDP&layout=compact&langs_count=8&card_width=467&show_icons=true&theme=react" />
+  </a>
+  <a href="https://github.com/JSebastianDP/github-readme-activity-graph" style="flex: 0 0 300px; height: 200px;">
+    <img style="width: 100%; height: 100%;" src="https://github-readme-activity-graph.vercel.app/graph?username=JSebastianDP&layout=compact&langs_count=8&card_width=100&show_icons=true&theme=react" />
+  </a>
 </div>
+
 
 
 
