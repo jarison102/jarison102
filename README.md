@@ -272,7 +272,7 @@ Desarrollador de software con experiencia en front end y back end tambien instal
 Nota: Los idiomas principales son solo una métrica de los idiomas en los que se compone mi código público y no reflejan la experiencia o el nivel de habilidad.
   
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jarison102)](https://github.com/jarison102/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jarison102theme=react)](https://github.com/jarison102/github-readme-activity-graph)
   
 </details>
 
