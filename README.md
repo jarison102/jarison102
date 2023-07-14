@@ -284,7 +284,7 @@ Nota: Los idiomas principales son solo una métrica de los idiomas en los que se
       <img style="width: 45%; height: 100%;" src="http://github-readme-streak-stats.herokuapp.com?user=JSebastianDP&layout=compact&langs_count=8&card_width=467&show_icons=true&theme=react" />
     </a>
     <a href="https://github.com/JSebastianDP/github-readme-activity-graph" style="float: right; width: 300px; height: 200px;">
-      <img style="width: 25% height: 100%;" src="https://github-readme-activity-graph.vercel.app/graph?username=JSebastianDP&layout=compact&langs_count=8&card_width=100&show_icons=true&theme=react" />
+      <img style="width: 25% height: 40%;" src="https://github-readme-activity-graph.vercel.app/graph?username=JSebastianDP&layout=compact&langs_count=8&card_width=100&show_icons=true&theme=react" />
     </a>
     <div style="clear: both;"></div>
   </div>
