@@ -270,6 +270,7 @@ Desarrollador de software con experiencia en front end y back end tambien instal
   <br/>
   
 Nota: Los idiomas principales son solo una métrica de los idiomas en los que se compone mi código público y no reflejan la experiencia o el nivel de habilidad.
+
 <div style="display: flex; justify-content: center;">
   <div>
     <a href="https://github.com/JSebastianDP/github-readme-stats" style="float: left; width: 300px; height: 200px;">
