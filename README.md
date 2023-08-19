@@ -222,6 +222,7 @@ Desarrollador de software con experiencia en front end y back end tambien instal
       <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a>
       <a href="#"><img alt="Slim" src="https://custom-icon-badges.demolab.com/badge/Slim-74a045.svg?logo=slim-php"></a>
       <a href="#"><img alt="Wordpress" src="https://img.shields.io/badge/Wordpress-21759B?logo=wordpress&logoColor=white"></a>
+    <a href="#"><img alt="Laravel" src="https://img.shields.io/badge/Laravel-FF0000B?logo=laravel&logoColor=white"></a>
   </p>
 
   <h3>🗄️ Bases de datos y alojamiento en la nube</h3>
