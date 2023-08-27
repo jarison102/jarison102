@@ -182,6 +182,14 @@ Desarrollador de software con experiencia en front end y back end tambien instal
  <a href="https://github.com/jarison102/Almacen-Gamer">
   <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=jarison102&repo=Almacen-Gamer&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="github.com/jarison102/Almacen-Gamer">
 </a>
+
+ <a href="https://github.com/jarison102/Crud-Laravel">
+  <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=jarison102&repo=Crud-Laravel&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="github.com/jarison102/Crud-Laravel">
+</a>
+
+ <a href="https://github.com/jarison102/proyectoreactConexionFormulario">
+  <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=jarison102&repo=proyectoreactConexionFormulario&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="github.com/jarison102/Proyecto-React-Conexion-Registro">
+</a>
  
     
   </p>
